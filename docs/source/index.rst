@@ -16,7 +16,7 @@ In the modern digital era, the Government of Rajasthan has revolutionized the wa
 .. raw:: html
 
    <div style="text-align: center; margin: 40px 0;">
-      <p style="font-size: 1.1em; color: #555;">To access the official portal directly, click below:</p>
+      <p style="font-size: 1.1em; color: #555;">To access the SSO ID Rajasthan portal directly, click below:</p>
       <a href="https://ssoidrajasthann.com" style="background-color: #1a73e8; color: white; padding: 18px 35px; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 1.3em; display: inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
          Go to SSO ID Rajasthan Portal
       </a>
@@ -37,7 +37,7 @@ Key Benefits of the Rajasthan SSO Portal
 
 Detailed Step-by-Step Registration Guide
 ----------------------------------------
-Registering for an `SSO ID <https://ssoidrajasthann.com>`_ is a one-time process. Depending on your status, you can choose one of the following three categories:
+Registering for an SSO ID  is a one-time process. Depending on your status, you can choose one of the following three categories:
 
 **1. For Citizens (Nagarik)**
 This is the most common category for individuals.
@@ -55,7 +55,7 @@ State employees use their **SIPF (State Insurance and Provident Fund)** ID to ac
 
 Common Services Available via SSO ID
 ------------------------------------
-Once you have your `SSO ID <https://ssoidrajasthann.com>`_, you can access a vast ecosystem of services:
+Once you have your SSO ID , you can access a vast ecosystem of services:
 
 * **e-Mitra:** The most widely used service for paying utility bills (water, electricity), applying for caste certificates, and domicile documents.
 * **Jan Aadhaar:** Manage your family’s social security benefits and link them to your bank accounts for direct benefit transfers (DBT).
@@ -69,7 +69,7 @@ It is vital to keep your profile updated. If you change your mobile number or ad
 
 Security Best Practices
 -----------------------
-To keep your `SSO ID <https://ssoidrajasthann.com>`_ secure, follow these guidelines:
+To keep your SSO ID  secure, follow these guidelines:
 * **Never share your OTP:** Government officials will never ask for your OTP or password.
 * **Use a Strong Password:** Combine uppercase letters, numbers, and symbols.
 * **Logout Properly:** Especially when using public computers or e-Mitra kiosks, always ensure you have logged out of the session.
@@ -92,14 +92,14 @@ Frequently Asked Questions (FAQ)
 A: While not strictly mandatory for registration (you can use Google), it is required to access 90% of the services like scholarships and subsidies.
 
 **Q: Can I have more than one SSO ID?**
-A: No. One citizen should only have one `SSO ID <https://ssoidrajasthann.com>`_ linked to their Aadhaar. Multiple IDs can cause issues with government benefit distributions.
+A: No. One citizen should only have one SSO ID  linked to their Aadhaar. Multiple IDs can cause issues with government benefit distributions.
 
 **Q: How much does it cost to register?**
 A: The registration process is 100% free. If an e-Mitra center charges you, it should only be for their service time, not for the ID itself.
 
 Conclusion
 ----------
-The `SSO ID <https://ssoidrajasthann.com>`_ portal is more than just a login; it is a digital empowerment tool for the people of Rajasthan. By centralizing services, the government has ensured that transparency and efficiency are just a click away. Whether you are a student, a business owner, or a retiree, mastering the SSO portal is essential for navigating the modern administrative landscape.
+The SSO ID  portal is more than just a login; it is a digital empowerment tool for the people of Rajasthan. By centralizing services, the government has ensured that transparency and efficiency are just a click away. Whether you are a student, a business owner, or a retiree, mastering the SSO portal is essential for navigating the modern administrative landscape.
 
 .. raw:: html
 
