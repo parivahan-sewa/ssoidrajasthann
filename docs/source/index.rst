@@ -18,7 +18,7 @@ In the modern digital era, the Government of Rajasthan has revolutionized the wa
    <div style="text-align: center; margin: 40px 0;">
       <p style="font-size: 1.1em; color: #555;">To access the SSO ID Rajasthan portal directly, click below:</p>
       <a href="https://ssoidrajasthann.com" style="background-color: #1a73e8; color: white; padding: 18px 35px; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 1.3em; display: inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-         Go to SSO ID Rajasthan Portal
+         SSO ID Rajasthan
       </a>
    </div>
 
